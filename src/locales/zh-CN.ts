@@ -99,13 +99,13 @@ export default {
     server:'服务端'
     ,about:'关于'
     ,model:'模型'
-    ,sysname:'AI绘图'
+    ,sysname:'AI图片生成'
   }
 
   ,mjtab:{
     chat:'对话'
     ,draw:'绘画'
-    ,drawinfo:'AI绘画 Midjourney引擎'
+    ,drawinfo:'AI图片生成 Midjourney引擎'
     ,gallery:'画廊'
     ,galleryInfo:'我的画廊'
   }
@@ -121,7 +121,7 @@ export default {
     ,redrawEditing:'局部重绘编辑'
     ,face:'换脸'
     ,blend:'混图'
-    ,draw:'绘图'
+    ,draw:'图片生成'
     ,submiting:'提交中'
     ,submit:'提交'
     ,wait3:'请勿关闭! 图片生成中...'

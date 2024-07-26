@@ -195,12 +195,12 @@ export default {
     "server": "服務端",
     "about": "關於",
     "model": "模型",
-    "sysname": "AI繪圖"
+    "sysname": "AI圖像生成"
   },
   "mjtab": {
     "chat": "對話",
-    "draw": "繪畫",
-    "drawinfo": "AI繪畫 Midjourney引擎",
+    "draw": "圖像生成",
+    "drawinfo": "AI圖像生成 Midjourney引擎",
     "gallery": "畫廊",
     "galleryInfo": "我的畫廊"
   },
@@ -216,7 +216,7 @@ export default {
     "redrawEditing": "局部重繪編輯",
     "face": "換臉",
     "blend": "混圖",
-    "draw": "繪圖",
+    "draw": "圖像生成",
     "submiting": "提交中",
     "submit": "提交",
     "wait3": "請勿關閉! 圖片生成中...",
